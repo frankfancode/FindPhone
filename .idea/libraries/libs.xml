@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://D:/android/project/HackerNews-master/libs/databaseutils.jar!/" />
+      <root url="jar://D:/android/project/HackerNews-master/libs/crashlytics.jar!/" />
+      <root url="jar://D:/android/project/HackerNews-master/libs/gson-2.2.2.jar!/" />
+      <root url="jar://D:/android/project/HackerNews-master/libs/commons-lang3-3.1.jar!/" />
+      <root url="jar://D:/android/project/HackerNews-master/libs/jsoup-1.7.3.jar!/" />
+      <root url="jar://D:/android/project/HackerNews-master/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
